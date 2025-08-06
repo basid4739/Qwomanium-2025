@@ -1,1 +1,0 @@
-# Qwomanium-2025
