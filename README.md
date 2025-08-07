@@ -56,7 +56,7 @@ From the table , for n level QGB need one X gate, one H gate, n CX gates, (n-1) 
 
 If n is even, Number of SWAP gates = (n/2)^2  
 
-If n is odd, Number of SWAP gates = ((n-1)/2)^2+(n-1)
+If n is odd, Number of SWAP gates = [(n-1)/2]^2 + (n-1)
 
 Total number of gates = 1+1+n+ (n-1) + (n/2)^2         ( for n is even)----(1)
 
