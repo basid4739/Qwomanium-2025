@@ -13,13 +13,13 @@ Consider a 3 level QGB.
 
    **How to represent bins in Binary?** ![image](https://github.com/basid4739/Qwomanium-2025/blob/main/QGB.png?raw=true)
    
-   1st bin - $\2^0$ = 0001
+   1st bin - $2^0$ = 0001
    
-   2nd bin - 21 = 0010
+   2nd bin - $2^1$ = 0010
    
-   3rd bin – 22 = 0100
+   3rd bin – $2^2$ = 0100
    
-   4th bin – 24 = 1000
+   4th bin – $2^3$ = 1000
 
 
 
