@@ -23,7 +23,7 @@ Consider a 3 level QGB.
    ![image](https://github.com/basid4739/Qwomanium-2025/blob/main/QGB.png?raw=true)
    
 
-For this project, I created a new Quantum circuit for QGB. 
+**For this project, I created a new Quantum circuit for QGB.** 
 
 Consider ‘n’ level QGB, There are n+1 qubits need to create a new circuit. We measure all the qubits (n+1).
 
