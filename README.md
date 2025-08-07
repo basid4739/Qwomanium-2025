@@ -33,7 +33,7 @@ Example, n= 2 level QGB,
 We represent the state |**q**<sub>2</sub>,**q**<sub>1</sub>,**q**<sub>0</sub> > (measure from bottom to top). The output states are |001>, |010> and |100>. 
 
 ![image](https://github.com/basid4739/Qwomanium-2025/blob/main/2_level.png)
-![image]()
+![image](https://github.com/basid4739/Qwomanium-2025/blob/main/2_level_output.png)
   
 
 
