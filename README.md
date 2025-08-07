@@ -7,4 +7,6 @@ So, we need ‘n+1’ bins to collect balls.
 ## Example
 Consider a 3 level QGB.
    
-    n = 3, Total number of bins = n+1 = 4.
+   n = 3, Total number of bins = n+1 = 4.
+
+   The dropped ball from the top are collected in bins.
