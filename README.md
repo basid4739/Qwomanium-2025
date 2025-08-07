@@ -42,6 +42,7 @@ I used X, H, CX, CH, and SWAP gates to create circuits.The quantity of each gate
 | n | x | H | CX | CH | SWAP |
 | --|-- | --| -- | -- | ---  |
 | 1|1|1|1|0|0 |
+|2|1|1|2|1|1|
 
 
   
