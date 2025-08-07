@@ -54,7 +54,7 @@ I used X, H, CX, CH, and SWAP gates to create circuits.The quantity of each gate
 
 From the table , for n level QGB need one X gate, one H gate, n CX gates, (n-1) CH gates.
 
-If n is even, Number of SWAP gates = (n/2)^2
+If n is even, Number of SWAP gates = (n/2)^2  $'\(n\over2)^2\`$
 
 If n is odd, Number of SWAP gates = ((n-1)/2)^2+(n-1)
 
