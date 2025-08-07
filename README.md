@@ -12,6 +12,7 @@ Consider a 3 level QGB.
    Total number of bins = n+1 = 4
 
    **How to represent bins in Binary?** 
+   
    1st bin - $2^0$ = 0001
    
    2nd bin - $2^1$ = 0010
@@ -31,6 +32,8 @@ Example, n= 2 level QGB,
 
 We represent the state |**q**<sub>2</sub>,**q**<sub>1</sub>,**q**<sub>0</sub> > (measure from bottom to top). The output states are |001>, |010> and |100>. 
 
+![image](https://github.com/basid4739/Qwomanium-2025/blob/main/2_level.png)
+![image]()
   
 
 
