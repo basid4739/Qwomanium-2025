@@ -38,6 +38,7 @@ We represent the state |**q**<sub>2</sub>,**q**<sub>1</sub>,**q**<sub>0</sub> > 
 **How many Quantum gates require to create a circuit?**
 
 I used X, H, CX, CH, and SWAP gates to create circuits.The quantity of each gate for each level are given below.
+
 | n | x | H | CX | CH | SWAP |
 | --- | --- |
 | `git status` | List all *new or modified* files |
