@@ -65,6 +65,7 @@ Total number of gates = 1+1+n+ (n-1) + [(n-1)/2]^2 + (n-1)   ( for n is odd)----
 Reducing the number of gates, especially the depth, generally helps reduce error in quantum circuits.
 
 
+
   
 
 
