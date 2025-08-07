@@ -21,7 +21,7 @@ Consider a 3 level QGB.
    
    4th bin – $2^3$ = 1000
    
-                      ![image](https://github.com/basid4739/Qwomanium-2025/blob/main/QGB.png?raw=true)
+ ![image](https://github.com/basid4739/Qwomanium-2025/blob/main/QGB.png?raw=true)
    
 
 **For this project, I created a new Quantum circuit for QGB.** 
@@ -38,7 +38,7 @@ We represent the state |**q**<sub>2</sub>,**q**<sub>1</sub>,**q**<sub>0</sub> > 
 **How many Quantum gates require to create a circuit?**
 
 I used X, H, CX, CH, and SWAP gates to create circuits.The quantity of each gate for each level are given below.
-| Command | Description |
+| n | x | H | CX | CH | SWAP |
 | --- | --- |
 | `git status` | List all *new or modified* files |
 | `git diff` | Show file differences that **haven't been** staged |
