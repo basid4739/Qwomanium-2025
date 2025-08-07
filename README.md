@@ -16,6 +16,14 @@ Consider a 3 level QGB.
    1st bin - $2^0$ = 0001
    
    2nd bin - $2^1$ = 0010
+
+For this project, I created a new Quantum circuit for QGB. 
+
+Consider ‘n’ level QGB, There are n+1 qubits need to create a new circuit. We measure all the qubits (n+1).
+
+Example, n= 2 level QGB,
+We represent the state |q_2q_1q_0 > (measure from bottom to top). The output states are |001>, |010> and |100>. 
+
    
    3rd bin – $2^2$ = 0100
    
