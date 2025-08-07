@@ -10,3 +10,5 @@ Consider a 3 level QGB.
    n = 3, The dropped ball from the top are collected in bins.
 
    Total number of bins = n+1 = 4
+
+![image](https://github.com/basid4739/Qwomanium-2025/blob/main/QGB.png?raw=true)
