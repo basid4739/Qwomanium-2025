@@ -41,8 +41,8 @@ I used X, H, CX, CH, and SWAP gates to create circuits.The quantity of each gate
 
 | n | x | H | CX | CH | SWAP |
 | --| --| --| -- | -- | ---  |
-|1||1|1|1|0|0|
-| `git diff` | Show file differences that **haven't been** staged |
+| 1||1|1|1|0|0 |
+
 
   
 
