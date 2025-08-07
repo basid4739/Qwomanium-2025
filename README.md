@@ -21,7 +21,7 @@ Consider a 3 level QGB.
    
    4th bin – $2^3$ = 1000
    
-   ![image](https://github.com/basid4739/Qwomanium-2025/blob/main/QGB.png?raw=true)
+                      ![image](https://github.com/basid4739/Qwomanium-2025/blob/main/QGB.png?raw=true)
    
 
 **For this project, I created a new Quantum circuit for QGB.** 
