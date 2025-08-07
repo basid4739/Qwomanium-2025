@@ -58,9 +58,9 @@ If n is even, Number of SWAP gates = (n/2)^2
 
 If n is odd, Number of SWAP gates = [(n-1)/2]^2 + (n-1)
 
-Total number of gates = 1+1+n+ (n-1) + (n/2)^2         ( for n is even)----(1)
+Total number of gates = 1+1+n+ (n-1) + (n/2)^2          ( for n is even)----(1)
 
-Total number of gates = 1+1+n+ (n-1) + ((n-1)/2)^2+(n-1)        ( for n is odd)----(2)
+Total number of gates = 1+1+n+ (n-1) + [(n-1)/2]^2 + (n-1)   ( for n is odd)----(2)
 
 Reducing the number of gates, especially the depth, generally helps reduce error in quantum circuits.
 
