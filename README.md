@@ -11,4 +11,15 @@ Consider a 3 level QGB.
 
    Total number of bins = n+1 = 4
 
-![image](https://github.com/basid4739/Qwomanium-2025/blob/main/QGB.png?raw=true)
+   **How to represent bins in Binary?** ![image](https://github.com/basid4739/Qwomanium-2025/blob/main/QGB.png?raw=true)
+   
+   1st bin - 20 = 0001
+   
+   2nd bin - 21 = 0010
+   
+   3rd bin – 22 = 0100
+   
+   4th bin – 24 = 1000
+
+
+
