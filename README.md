@@ -40,8 +40,8 @@ We represent the state |**q**<sub>2</sub>,**q**<sub>1</sub>,**q**<sub>0</sub> > 
 I used X, H, CX, CH, and SWAP gates to create circuits.The quantity of each gate for each level are given below.
 
 | n | x | H | CX | CH | SWAP |
-| --| --| --| -- | -- | ---  |
-| 1||1|1|1|0|0 |
+| --|-- | --| -- | -- | ---  |
+| 1|1|1|1|0|0 |
 
 
   
