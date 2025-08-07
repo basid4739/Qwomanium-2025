@@ -34,6 +34,15 @@ We represent the state |**q**<sub>2</sub>,**q**<sub>1</sub>,**q**<sub>0</sub> > 
 
 ![image](https://github.com/basid4739/Qwomanium-2025/blob/main/2_level.png)
 ![image](https://github.com/basid4739/Qwomanium-2025/blob/main/2_level_output.png)
+
+**How many Quantum gates require to create a circuit?**
+
+I used X, H, CX, CH, and SWAP gates to create circuits.The quantity of each gate for each level are given below.
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
   
 
 
