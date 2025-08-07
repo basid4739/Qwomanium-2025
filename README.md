@@ -19,6 +19,7 @@ Consider a 3 level QGB.
    3rd bin – $2^2$ = 0100
    
    4th bin – $2^3$ = 1000
+   
    ![image](https://github.com/basid4739/Qwomanium-2025/blob/main/QGB.png?raw=true)
    
 
@@ -28,9 +29,9 @@ Consider ‘n’ level QGB, There are n+1 qubits need to create a new circuit. W
 
 Example, n= 2 level QGB,
 
-We represent the state |q_2,q_1,q_0 > (measure from bottom to top). The output states are |001>, |010> and |100>. 
+We represent the state |q <sub>2</sub>,q <sub>1</sub>,q <sub>0</sub> > (measure from bottom to top). The output states are |001>, |010> and |100>. 
 
-   
+  
 
 
 
